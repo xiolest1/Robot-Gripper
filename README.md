@@ -72,5 +72,11 @@ pip install customtkinter pyserial
 <img src="https://i.postimg.cc/bv27ZfkG/robot-Gripper-image1.jpg" width="300" alt="Process Flow">
 <img src="https://i.postimg.cc/zBZ9W2Fx/Robot-Gripper-img2.jpg" width="300" alt="Process Flow">
 <img src="https://i.postimg.cc/50BDm5Pb/Robot-Gripper-img3.jpg" width="300" alt="Process Flow">
-<img src="https://i.postimg.cc/Z5gkY5Bt/Screenshot-2025-02-24-070546.png" width="300" alt="Process Flow">
+
+![Screenshot 2025-02-24 070546](https://github.com/user-attachments/assets/3357354d-a819-4adf-a059-d47e851f98bc)
+
+https://github.com/user-attachments/assets/4c52b7bf-6a20-461e-b966-f172d3e883aa
+
+*Click thumbnail to watch demo video ↗️*
+[![Watch the Gripper in Action](https://img.youtube.com/vi/uto3_GqsF7M/0.jpg)](https://www.youtube.com/shorts/uto3_GqsF7M)
 
