@@ -9,7 +9,6 @@ This system enables users to control a **servo motor** using a **GUI (Python Tki
 - [Usage](#usage)
   - [Running the Python GUI](#running-the-python-gui)
   - [Uploading the Arduino Code](#uploading-the-arduino-code)
-- [How It Works](#how-it-works)
 
 
 ## **Features**
