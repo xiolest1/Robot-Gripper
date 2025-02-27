@@ -68,7 +68,7 @@ pip install customtkinter pyserial
 3. **Select the Correct Port**.  
 4. **Click Upload** to flash the code onto the Arduino.
 
-## Pictures + Video testing out the RC Car
+## Pictures + Video testing out the Gripper
 <img src="https://i.postimg.cc/bv27ZfkG/robot-Gripper-image1.jpg" width="300" alt="Process Flow">
 <img src="https://i.postimg.cc/zBZ9W2Fx/Robot-Gripper-img2.jpg" width="300" alt="Process Flow">
 <img src="https://i.postimg.cc/50BDm5Pb/Robot-Gripper-img3.jpg" width="300" alt="Process Flow">
