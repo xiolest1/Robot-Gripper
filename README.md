@@ -77,6 +77,12 @@ pip install customtkinter pyserial
 
 https://github.com/user-attachments/assets/4c52b7bf-6a20-461e-b966-f172d3e883aa
 
-*Click thumbnail to watch demo video ↗️*
+https://github.com/user-attachments/assets/ee7ea9fa-4416-4b1e-95f7-ea3ba53ea8e6
+
+*Click thumbnail to watch the full demo video ↗️*
 [![Watch the Gripper in Action](https://img.youtube.com/vi/uto3_GqsF7M/0.jpg)](https://www.youtube.com/shorts/uto3_GqsF7M)
+
+
+
+
 
